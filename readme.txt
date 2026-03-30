@@ -5,7 +5,7 @@ Erevos-9: Mystery Adventure
 
 1. Where the code is hosted
 The code for this project is hosted on GitHub.
-Repository link: [PASTE YOUR GITHUB LINK HERE]
+Repository link: [https://github.com/7zfx24m448-source/adventure-game-final.]
 
 2. External services
 This project uses the following external services:
